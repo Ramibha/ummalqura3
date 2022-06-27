@@ -4,12 +4,12 @@ Python Umm Al-Qura Calender
 Python Umalqurra Calender is an API that will give you the ability to convert Gregorian to Hijri and hijri to Gregorian
 it will give you the day name in arabic and english , and the month name in Hijri arabic and Gregorian.
 
-Thanks for Khalid Al-hussayen : https://pypi.python.org/pypi/umalqurra/0.2 
-Thanks for Borni Dhifi : https://github.com/borni-dhifi/ummalqura.git
+- Thanks for Khalid Al-hussayen : https://pypi.python.org/pypi/umalqurra/0.2 
+- Thanks for Borni Dhifi : https://github.com/borni-dhifi/ummalqura.git
 
 Install
 -------
-	sudo pip3 install git+https://github.com/borni-dhifi/ummalqura.git
+	sudo pip3 install git+https://github.com/Ramibha/ummalqura3
 
 Features: 
 ---------
